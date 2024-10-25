@@ -56,10 +56,6 @@ Activate the raydium volume bot to carry out desired transaction volumes. Implem
 
 Retrieve remaining funds from the keypairs, consolidating WSOL and SOL back to the configured wallet.
 
-## Additional Support
-
-For comprehensive guidance and updates, directly contact @inscNix on Telegram. Extended documentation and support are available to assist with any queries.
-
 ### Conclusion
 
 Implement the Solana Volume Bot to enhance your Solana transaction operations. Its efficiency ensures a seamless buying and selling experience on the blockchain ecosystem.
