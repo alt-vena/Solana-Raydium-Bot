@@ -29,7 +29,7 @@ Modify the `.env` file to specify necessary credentials:
 Run the script using:
 
 ```bash
-node main.js
+node main.ts
 ```
 
 ### Step 2: Execution Workflow
